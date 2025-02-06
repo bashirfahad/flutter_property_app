@@ -68,6 +68,6 @@ This project is **open-source** under the **MIT License**.
 ## Contact
 
 - **Author**: Fahad Bashir
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/bashirfahad](https://linkedin.com/in/bashirfahad)
+- **Email**: fahadbashir804@gmail.com
+- **LinkedIn**: linkedin.com/in/fahad-bashir-259798201
 
