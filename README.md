@@ -19,7 +19,7 @@ Blumo Property App is a real estate application built using **Flutter** to facil
 - **Database**: Firestore / PostgreSQL
 - **Payments**: Stripe API
 - **Maps**: Google Maps API
-- **State Management**: Provider / Riverpod (mention the one you use)
+- **State Management**: Provider / Riverpod 
 
 ## Installation
 
